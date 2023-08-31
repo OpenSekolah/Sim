@@ -1,0 +1,17 @@
+{
+    "name": "udamuri/sim",
+    "description": "Aplikasi Sim",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Udamuri\\Sim\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Uda Muri",
+            "email": "muri.budiman@amscloud.co.id"
+        }
+    ],
+    "require": {}
+}
